@@ -38,14 +38,14 @@ body {
 }
 
 .previous-operand {
-    color: #a0aec0;
+    color: #060708;
     font-size: 14px;
     min-height: 20px;
     word-break: break-all;
 }
 
 .current-operand {
-    color: #ffffff;
+    color: #060708;
     font-size: 32px;
     font-weight: 600;
     word-break: break-all;
